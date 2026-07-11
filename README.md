@@ -46,7 +46,7 @@ CodeAlpha_LanguageTranslationTool/
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/CodeAlpha_LanguageTranslationTool.git
+git clone https://github.com/Stalin-coder/CodeAlpha_LanguageTranslationTool.git
 ```
 
 Install dependencies
